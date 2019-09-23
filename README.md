@@ -1,1 +1,1 @@
-# mvcnn-spherepano
+# JavaExcersize
